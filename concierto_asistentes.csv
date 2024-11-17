@@ -1,0 +1,1001 @@
+id_asistente,nombre,edad,género,tipo_boleto,precio_boleto,ciudad_origen,fila_asiento,sección,asistió
+1,Laura Gonzalez,27,otro,VIP,771.4600884724689,Madrid,21,A,0
+2,María García,26,hombre,VIP,504.87279635415274,Bogotá,5,A,1
+3,Luis Gonzalez,39,mujer,VIP,877.1992223691361,Toronto,40,C,1
+4,Samantha Smith,22,otro,Backstage,793.4056852827389,Santiago,13,A,0
+5,Emma Brown,60,hombre,VIP,142.3782950935311,Bogotá,23,C,0
+6,John Johnson,40,otro,VIP,929.4445070525236,Toronto,35,A,1
+7,María Gonzalez,54,mujer,VIP,419.18511943475687,Nueva York,49,E,1
+8,María Smith,25,hombre,General,210.81780397194933,Madrid,38,D,0
+9,Sofia Johnson,53,otro,VIP,871.6868892144695,Los Angeles,34,D,1
+10,John Lopez,52,mujer,VIP,57.89855479973839,Toronto,37,B,1
+11,Alice Lopez,49,hombre,General,881.0243777318958,Bogotá,21,B,1
+12,Robert Brown,51,hombre,Backstage,613.7211567242251,Toronto,33,D,0
+13,John Doe,44,mujer,VIP,669.1786323088952,Toronto,28,D,1
+14,Sofia Smith,30,otro,General,894.9761571765007,Buenos Aires,38,D,0
+15,Carlos Brown,27,otro,General,283.2931024234791,Ciudad de México,18,D,1
+16,Samantha Johnson,28,hombre,General,538.9748958502034,Toronto,32,E,1
+17,Emma García,57,hombre,Backstage,760.1066538563583,Bogotá,15,D,0
+18,Carlos Lopez,25,otro,VIP,315.3920224733464,Los Angeles,21,C,0
+19,Sofia Brown,50,mujer,General,505.02058321800865,Lima,46,C,1
+20,John Brown,59,hombre,VIP,176.80298477824948,Madrid,28,A,1
+21,Robert García,20,hombre,Backstage,834.0551157580096,Santiago,23,D,1
+22,Luis Johnson,59,mujer,Backstage,611.5777972214195,Ciudad de México,40,D,1
+23,Laura García,58,otro,General,515.0120246565302,Bogotá,13,B,0
+24,Emma Lopez,33,otro,VIP,338.9566712718505,Los Angeles,23,B,0
+25,Carlos Lee,58,otro,General,988.625532610318,Buenos Aires,18,D,1
+26,Emma Lopez,18,mujer,Backstage,797.2611748309797,Lima,40,D,0
+27,Carlos Lopez,18,otro,Backstage,219.94928352767133,Toronto,36,B,1
+28,Alice Rivera,35,otro,General,875.1500608571168,Los Angeles,23,D,1
+29,John Rivera,43,hombre,VIP,519.161797288363,Madrid,28,A,1
+30,Luis Smith,45,otro,VIP,947.7573244423518,Santiago,22,E,1
+31,Samantha Gonzalez,60,otro,VIP,185.95956346959318,Miami,8,B,0
+32,Sofia Rivera,37,otro,General,747.6083045212728,Santiago,26,B,1
+33,Alice Lopez,35,otro,General,352.8926744124787,Santiago,8,B,1
+34,Carlos Gonzalez,36,hombre,VIP,281.7183071383069,Bogotá,15,C,1
+35,Samantha Brown,43,mujer,Backstage,585.4357438297081,Madrid,35,C,0
+36,John Lee,23,otro,VIP,685.322363225242,Ciudad de México,2,A,0
+37,Laura Smith,36,mujer,VIP,727.7242897483491,Toronto,13,B,0
+38,Samantha Johnson,20,otro,VIP,326.66074178338727,Toronto,42,E,0
+39,Samantha Brown,25,mujer,General,301.7740000950786,Miami,33,A,1
+40,John Lopez,22,mujer,Backstage,586.6294969748838,Lima,45,B,1
+41,Samantha Smith,46,otro,Backstage,879.4912469880665,Miami,8,A,0
+42,María Johnson,22,otro,General,117.92199713607855,Nueva York,33,D,1
+43,Luis Rivera,38,otro,General,478.5210009628505,Los Angeles,1,C,1
+44,Emma Brown,19,otro,VIP,68.99276210236991,Santiago,47,A,0
+45,Luis Brown,42,otro,VIP,812.1051354588183,Santiago,23,A,0
+46,Laura Johnson,41,otro,Backstage,875.1973161788316,Los Angeles,1,E,0
+47,Sofia García,35,mujer,VIP,428.2286079270967,Los Angeles,16,B,0
+48,John Martinez,42,otro,VIP,695.8029649365477,Ciudad de México,12,D,1
+49,Carlos Lee,40,hombre,Backstage,716.9405685757923,Santiago,16,B,0
+50,Emma Doe,54,hombre,General,983.7881041699823,Nueva York,33,E,0
+51,John Martinez,55,mujer,General,765.8147686515691,Miami,48,A,0
+52,Carlos Lee,59,otro,General,409.41690965200246,Bogotá,35,B,1
+53,Sofia Doe,36,otro,VIP,887.6003741968457,Toronto,2,E,0
+54,Alice Johnson,56,mujer,Backstage,962.5883716812481,Santiago,46,D,1
+55,Sofia Lee,27,mujer,Backstage,733.2839899145481,Los Angeles,24,B,0
+56,Sofia Lee,57,hombre,VIP,527.849483349806,Bogotá,12,C,1
+57,Sofia Lee,57,hombre,Backstage,699.8709973950788,Buenos Aires,14,A,1
+58,María Gonzalez,48,otro,VIP,436.41243731701223,Santiago,44,B,0
+59,Alice Martinez,30,mujer,General,306.25011764488147,Madrid,3,B,1
+60,Sofia Rivera,48,mujer,VIP,739.3324555229292,Ciudad de México,35,A,0
+61,Laura García,49,hombre,Backstage,638.2529578100239,Buenos Aires,21,B,0
+62,Carlos Lopez,44,otro,General,778.0215452009029,Miami,14,E,1
+63,Samantha Lopez,42,otro,VIP,928.2522081184824,Toronto,17,D,1
+64,Sofia Rivera,29,mujer,Backstage,447.15895796734,Santiago,21,A,0
+65,Robert Johnson,44,otro,General,213.46840750640814,Lima,17,E,1
+66,Luis Martinez,35,otro,General,757.6137752790753,Miami,35,C,1
+67,Robert Martinez,35,otro,General,269.59694955861335,Miami,11,C,0
+68,Emma Martinez,54,hombre,Backstage,387.87200748408833,Los Angeles,47,E,0
+69,María Doe,27,hombre,VIP,154.47360101850362,Santiago,22,D,0
+70,Samantha Lopez,54,otro,General,725.8059446761739,Madrid,6,D,0
+71,John Smith,51,otro,General,485.5066251459197,Ciudad de México,34,E,1
+72,John Lopez,40,hombre,Backstage,675.7095104112286,Madrid,23,D,0
+73,Alice Johnson,33,mujer,VIP,612.8587792444031,Lima,24,B,1
+74,Samantha Rivera,51,otro,Backstage,595.9704429017316,Buenos Aires,46,A,0
+75,Carlos Martinez,47,otro,VIP,263.4487325816549,Miami,25,C,0
+76,Robert Rivera,45,otro,VIP,142.1830201026228,Los Angeles,8,D,0
+77,Laura Martinez,20,mujer,Backstage,469.88458129386413,Miami,27,D,0
+78,Luis Johnson,24,mujer,VIP,998.1972994325477,Lima,21,C,0
+79,Carlos Gonzalez,47,hombre,General,800.8740050830231,Los Angeles,15,D,1
+80,María Gonzalez,48,hombre,Backstage,851.6878346789628,Lima,34,D,1
+81,Alice Lopez,41,otro,General,892.412940148198,Santiago,50,B,1
+82,John Martinez,55,mujer,Backstage,714.7168854510576,Los Angeles,23,B,1
+83,María Smith,32,mujer,VIP,206.30445569516988,Buenos Aires,13,E,0
+84,Carlos Doe,51,otro,General,630.1017454562902,Toronto,23,D,0
+85,María Smith,32,hombre,General,246.1500456562191,Nueva York,28,E,1
+86,Samantha Martinez,58,hombre,General,768.1778554112981,Ciudad de México,32,E,0
+87,Luis Rivera,53,mujer,General,326.70561020590355,Los Angeles,8,D,0
+88,Alice Gonzalez,52,hombre,Backstage,723.2457494866027,Bogotá,15,B,1
+89,Luis Gonzalez,24,hombre,VIP,589.1785893738331,Madrid,43,C,1
+90,Emma Smith,51,otro,Backstage,417.9763324010155,Lima,44,D,1
+91,Alice Lee,25,otro,General,495.25052582248543,Lima,3,D,0
+92,Carlos Smith,42,mujer,General,598.5688713080363,Toronto,13,C,0
+93,Emma Lee,52,otro,General,876.7189173704181,Nueva York,24,D,0
+94,Alice Smith,38,hombre,General,302.2840678312974,Miami,7,D,0
+95,Samantha Smith,21,otro,General,735.892993267939,Bogotá,16,A,0
+96,Carlos Doe,51,otro,Backstage,369.5042523575533,Miami,28,A,0
+97,Carlos Johnson,35,otro,VIP,580.6625049384054,Ciudad de México,3,B,0
+98,Sofia Gonzalez,18,mujer,Backstage,235.5243496454818,Lima,9,B,1
+99,Luis García,60,mujer,Backstage,600.3065508578811,Miami,36,D,0
+100,Sofia Gonzalez,48,mujer,VIP,330.6434978241967,Los Angeles,18,A,0
+101,Samantha Smith,28,mujer,VIP,680.4017976182375,Santiago,20,E,1
+102,John Doe,29,otro,General,766.5179411319523,Nueva York,15,E,1
+103,Samantha Brown,20,otro,VIP,840.319851731472,Buenos Aires,18,A,0
+104,Robert Smith,21,mujer,General,752.0798238520288,Santiago,38,A,0
+105,John Johnson,41,mujer,VIP,702.1720049006012,Madrid,10,B,1
+106,Luis Smith,58,mujer,General,351.1097424751046,Buenos Aires,6,C,0
+107,John Johnson,42,hombre,VIP,548.4470085463136,Ciudad de México,1,E,1
+108,Robert García,33,otro,General,623.1837719191003,Nueva York,42,D,0
+109,John Martinez,45,otro,Backstage,525.1893401987854,Los Angeles,46,C,1
+110,Laura Rivera,31,hombre,Backstage,217.185067526423,Santiago,13,A,1
+111,John Martinez,26,otro,VIP,224.81120878065178,Madrid,2,C,0
+112,Carlos Lopez,57,hombre,Backstage,253.57495162627808,Buenos Aires,29,C,0
+113,John Johnson,30,mujer,General,264.4395291716297,Lima,42,E,0
+114,Luis Rivera,57,otro,General,285.7387383472822,Ciudad de México,40,B,0
+115,Robert Smith,40,hombre,Backstage,176.9359775276912,Nueva York,39,B,1
+116,Carlos Rivera,47,hombre,Backstage,580.3779360048874,Buenos Aires,48,B,0
+117,Sofia García,29,hombre,VIP,538.2799476894584,Nueva York,29,A,0
+118,Robert Lopez,37,mujer,Backstage,112.93754341835908,Ciudad de México,32,A,1
+119,Robert Gonzalez,60,hombre,Backstage,994.4921855926735,Buenos Aires,22,B,1
+120,Alice Lee,45,hombre,General,95.45194201392937,Buenos Aires,34,C,0
+121,Carlos Martinez,23,hombre,Backstage,708.8185646772899,Miami,16,A,1
+122,Samantha Doe,25,hombre,General,440.49575149014436,Los Angeles,35,B,1
+123,Emma Gonzalez,56,hombre,General,978.1833122332122,Santiago,5,D,1
+124,Samantha Gonzalez,60,otro,VIP,921.1762097127715,Nueva York,7,A,1
+125,Alice Johnson,24,mujer,VIP,576.8286146977256,Lima,26,D,0
+126,Laura Gonzalez,51,otro,Backstage,586.9954218691232,Santiago,44,E,0
+127,Samantha Gonzalez,25,mujer,General,826.7686778739393,Miami,5,E,1
+128,Emma Rivera,46,mujer,General,410.86481890432924,Ciudad de México,25,E,1
+129,María Gonzalez,54,mujer,VIP,958.4981529901089,Santiago,21,A,1
+130,Luis Martinez,59,hombre,General,841.3264049844169,Miami,16,A,0
+131,Sofia Lopez,23,otro,VIP,775.952549441606,Lima,27,D,0
+132,Robert Rivera,19,hombre,VIP,718.2551765982217,Miami,50,E,1
+133,Samantha Gonzalez,45,mujer,Backstage,215.07719754089038,Santiago,16,C,1
+134,Sofia Lopez,37,otro,Backstage,708.9102439239504,Los Angeles,13,E,1
+135,John Smith,30,otro,VIP,829.4900784065576,Ciudad de México,40,E,1
+136,Laura García,39,otro,VIP,938.7085684554039,Bogotá,36,D,0
+137,Laura Smith,55,mujer,VIP,539.4004644326212,Toronto,24,A,1
+138,Laura Martinez,60,mujer,VIP,830.0236735221296,Santiago,13,D,1
+139,Luis Martinez,31,hombre,General,463.09199976100814,Bogotá,26,B,1
+140,Luis Brown,55,hombre,VIP,595.9665008704168,Madrid,12,D,0
+141,John Martinez,41,hombre,Backstage,101.8026811628886,Los Angeles,19,A,0
+142,Carlos Rivera,45,otro,Backstage,389.65750370913304,Lima,39,E,0
+143,Samantha García,59,mujer,Backstage,740.411406794145,Nueva York,44,A,0
+144,Luis Rivera,42,otro,Backstage,611.1615691269008,Toronto,7,D,0
+145,Emma Lee,47,hombre,General,790.9675342339764,Lima,3,B,1
+146,Alice Johnson,53,otro,VIP,334.54988452503153,Bogotá,7,A,0
+147,Alice Doe,24,otro,General,466.12590421260774,Toronto,50,C,0
+148,Sofia Lee,27,hombre,VIP,59.26811895437676,Santiago,22,B,0
+149,Alice Gonzalez,28,hombre,General,405.5479178669896,Madrid,37,B,1
+150,Laura Gonzalez,19,hombre,VIP,741.2474744798124,Madrid,19,B,1
+151,Samantha Johnson,45,mujer,General,73.23205448219846,Nueva York,38,A,0
+152,Samantha Lee,41,otro,VIP,806.4902680406037,Santiago,48,A,0
+153,Alice Rivera,40,otro,General,304.95005058002397,Bogotá,21,B,0
+154,Carlos García,55,hombre,VIP,842.7082565540976,Santiago,50,D,1
+155,Sofia Johnson,50,mujer,Backstage,86.61816680873504,Bogotá,15,B,0
+156,Emma Lee,46,hombre,General,451.3497054116946,Bogotá,33,A,1
+157,Alice Smith,48,otro,VIP,731.1306710536275,Miami,4,C,0
+158,Luis Rivera,19,mujer,Backstage,905.2348972140887,Buenos Aires,7,A,1
+159,Emma Smith,51,otro,Backstage,185.96194256768683,Miami,20,E,0
+160,Robert García,20,mujer,Backstage,120.9662154528393,Miami,47,D,0
+161,Luis Gonzalez,34,hombre,General,770.8857227904549,Los Angeles,9,B,0
+162,John Smith,40,hombre,General,552.0212180655702,Bogotá,38,A,1
+163,Alice Rivera,53,otro,Backstage,727.4961887802585,Bogotá,37,B,1
+164,María Rivera,49,otro,VIP,266.4089999164178,Santiago,31,C,0
+165,Emma Johnson,46,hombre,General,166.82020176446227,Miami,13,E,1
+166,Emma Gonzalez,54,mujer,VIP,881.7367845281703,Nueva York,44,C,0
+167,Sofia Lopez,22,otro,General,475.8869059567111,Lima,37,E,0
+168,Sofia Rivera,25,hombre,Backstage,364.5842188067527,Miami,29,C,1
+169,Emma Doe,59,mujer,Backstage,518.6528796825423,Lima,16,D,1
+170,Samantha Brown,58,mujer,VIP,531.1106558333859,Lima,43,E,1
+171,Emma Lopez,35,otro,General,715.1851033716235,Los Angeles,31,B,1
+172,Luis Martinez,36,otro,VIP,135.5022132694944,Miami,16,E,1
+173,Alice García,29,hombre,VIP,459.90216256949714,Buenos Aires,5,A,1
+174,Carlos Martinez,49,otro,VIP,427.0318548078775,Bogotá,42,E,0
+175,Laura Martinez,30,otro,VIP,311.70160585622443,Santiago,34,C,0
+176,Emma Doe,40,mujer,General,55.760615651004315,Santiago,44,C,0
+177,Laura Lee,32,mujer,General,788.8374653020006,Santiago,42,D,0
+178,John Smith,40,hombre,General,119.25827925369641,Nueva York,16,B,1
+179,Luis Doe,38,mujer,Backstage,416.0906988748359,Santiago,37,D,0
+180,Samantha Doe,24,otro,VIP,847.3234691858526,Madrid,26,B,1
+181,Carlos Rivera,52,otro,Backstage,461.8284394817777,Miami,39,B,1
+182,Samantha Gonzalez,43,mujer,General,120.39187886493254,Nueva York,2,E,0
+183,Laura Brown,49,hombre,General,705.9318776624756,Madrid,7,D,0
+184,Robert Johnson,33,otro,VIP,839.150199877299,Madrid,1,E,0
+185,Robert Lee,41,hombre,VIP,747.6560956388713,Toronto,33,D,1
+186,Sofia Lee,28,otro,VIP,299.8746612115084,Santiago,9,B,0
+187,Laura Doe,54,mujer,General,839.6130786755948,Nueva York,31,A,0
+188,Emma Doe,33,hombre,VIP,145.95847405922413,Madrid,19,B,0
+189,Alice Martinez,21,hombre,General,614.2801869011,Santiago,7,B,1
+190,Robert Johnson,31,otro,Backstage,775.5601118721285,Nueva York,18,E,1
+191,Luis Smith,52,otro,Backstage,79.91796532156032,Madrid,46,C,1
+192,Alice Martinez,21,otro,Backstage,180.94337777437548,Santiago,47,D,0
+193,Samantha Smith,53,mujer,Backstage,384.8346822369453,Madrid,9,B,1
+194,María Martinez,23,mujer,VIP,715.2562103090311,Madrid,1,D,0
+195,Emma Martinez,48,hombre,VIP,914.5963168639615,Ciudad de México,15,C,1
+196,Laura Smith,40,hombre,Backstage,194.370365797468,Lima,10,B,0
+197,María Brown,50,mujer,VIP,747.1562001881867,Los Angeles,39,E,1
+198,Luis Lee,21,otro,Backstage,793.7967923832281,Buenos Aires,35,C,1
+199,Laura Brown,27,otro,General,574.5095185541503,Ciudad de México,3,E,1
+200,María García,41,mujer,General,345.44958817898834,Los Angeles,18,D,1
+201,John Doe,41,hombre,General,312.4866995434829,Madrid,2,A,0
+202,Carlos Smith,60,mujer,General,682.5689939536628,Nueva York,16,A,0
+203,John García,19,otro,Backstage,754.7545975823313,Miami,40,E,1
+204,Luis Brown,36,otro,General,355.245047507695,Nueva York,3,B,1
+205,Luis Lopez,24,hombre,Backstage,184.34620677479907,Los Angeles,29,A,1
+206,Robert Rivera,23,otro,VIP,604.2140566784697,Ciudad de México,47,E,1
+207,Sofia García,31,mujer,General,554.1714400966055,Ciudad de México,2,A,1
+208,Samantha Lopez,22,hombre,General,566.0540296203428,Ciudad de México,30,D,1
+209,María Doe,57,hombre,General,418.69866308184606,Madrid,1,D,0
+210,Carlos Brown,34,mujer,VIP,931.8157296776278,Lima,6,E,1
+211,John García,19,mujer,General,478.2256689977638,Madrid,9,B,0
+212,Robert Rivera,60,otro,General,304.77152857229635,Toronto,49,A,0
+213,Carlos Rivera,34,mujer,Backstage,377.6715383078098,Toronto,3,A,0
+214,Laura Lee,20,mujer,General,652.4468264423234,Madrid,4,C,1
+215,Carlos Doe,19,otro,Backstage,929.7590796508356,Nueva York,22,A,0
+216,María Rivera,20,mujer,Backstage,828.4993987311719,Miami,43,A,0
+217,María Johnson,23,hombre,VIP,642.6119630678215,Los Angeles,8,A,0
+218,Sofia García,32,hombre,VIP,729.5074595314625,Buenos Aires,44,D,1
+219,Emma Martinez,22,hombre,Backstage,136.85335773284413,Bogotá,39,B,1
+220,Samantha Doe,22,otro,Backstage,942.2157994081559,Miami,39,D,0
+221,Emma Johnson,20,otro,VIP,226.79296696917706,Ciudad de México,4,D,1
+222,Luis Martinez,47,otro,VIP,172.9955831671979,Ciudad de México,7,D,1
+223,Laura Lopez,26,hombre,General,242.49807147078857,Lima,12,D,0
+224,Samantha Gonzalez,43,hombre,Backstage,268.9942009202848,Ciudad de México,37,B,1
+225,Robert Lopez,52,mujer,General,683.6040162914005,Toronto,33,C,0
+226,Sofia Gonzalez,53,mujer,General,217.98425562736483,Toronto,32,C,1
+227,Emma Rivera,52,otro,General,613.4018834327325,Ciudad de México,34,B,0
+228,Luis Smith,27,hombre,Backstage,901.4633536678512,Buenos Aires,42,D,0
+229,Alice Smith,26,otro,Backstage,113.97011848944524,Los Angeles,45,B,0
+230,Luis Smith,56,otro,VIP,844.8520438038006,Lima,18,A,0
+231,Robert Rivera,47,otro,VIP,678.0196316093377,Los Angeles,20,B,0
+232,John Brown,60,hombre,VIP,748.8124464993093,Miami,6,A,0
+233,Sofia Lee,41,hombre,General,177.21401968136405,Toronto,39,D,0
+234,Luis Lee,25,mujer,VIP,977.027669909603,Madrid,19,C,1
+235,María Martinez,41,otro,General,868.242002617579,Ciudad de México,14,D,1
+236,John Martinez,42,otro,General,370.95912761060555,Bogotá,16,B,1
+237,Carlos Martinez,47,otro,General,786.3682777710902,Madrid,24,A,1
+238,María Doe,44,hombre,Backstage,502.19327782136185,Santiago,20,A,1
+239,Luis Smith,20,hombre,VIP,164.28578866638546,Toronto,36,E,1
+240,Sofia Lee,28,hombre,General,598.2436519677184,Ciudad de México,20,C,1
+241,Luis Brown,43,hombre,General,324.5678617700638,Miami,34,A,1
+242,Laura García,58,hombre,VIP,244.5693261059392,Nueva York,49,D,1
+243,Luis Smith,36,otro,Backstage,112.36855341245116,Miami,41,D,1
+244,María Martinez,52,otro,Backstage,434.38396463288274,Toronto,33,A,0
+245,Emma Brown,60,mujer,General,852.5397967812837,Bogotá,25,D,0
+246,Alice Martinez,25,otro,VIP,365.0543786186578,Toronto,48,C,1
+247,John Doe,60,mujer,VIP,631.9612579404729,Miami,30,E,0
+248,John Lopez,21,mujer,VIP,841.9262268227844,Bogotá,2,C,0
+249,Emma Lopez,48,mujer,General,177.13424802763026,Madrid,2,E,0
+250,Samantha Johnson,44,hombre,General,473.59376764457505,Lima,30,E,1
+251,Emma Doe,58,mujer,VIP,606.8309457751665,Bogotá,12,C,1
+252,Alice García,56,mujer,General,289.26242489165554,Miami,23,D,0
+253,Laura García,54,otro,Backstage,740.2404314305135,Miami,48,B,0
+254,Emma Lopez,60,otro,VIP,835.0743951840266,Nueva York,48,B,1
+255,Luis Martinez,37,hombre,General,476.8351049089243,Miami,24,E,1
+256,John García,57,otro,Backstage,290.74108449990285,Buenos Aires,1,C,1
+257,Luis Gonzalez,21,otro,General,942.2640912421248,Lima,39,E,1
+258,María Smith,45,mujer,VIP,852.972958050741,Santiago,11,D,0
+259,Alice Johnson,19,otro,VIP,469.98385751611727,Ciudad de México,50,E,0
+260,John Lee,60,otro,Backstage,71.9878093880331,Toronto,15,C,0
+261,María Brown,27,otro,Backstage,286.1558848161409,Ciudad de México,38,C,0
+262,Samantha Gonzalez,37,otro,VIP,616.584593027785,Nueva York,11,D,0
+263,Sofia Lopez,60,mujer,Backstage,558.4090393279096,Santiago,38,C,0
+264,Laura Lopez,50,otro,VIP,983.2800908690962,Ciudad de México,19,C,1
+265,Alice García,36,hombre,General,149.35796497862873,Lima,20,E,1
+266,John Smith,26,mujer,VIP,929.6822664794241,Los Angeles,12,D,1
+267,Sofia Johnson,36,otro,VIP,951.1951699894595,Lima,20,D,1
+268,Alice Brown,51,mujer,VIP,670.5040898017481,Bogotá,19,C,1
+269,María Martinez,28,hombre,Backstage,622.3605646960029,Lima,9,A,0
+270,Laura García,46,otro,Backstage,923.826112313792,Los Angeles,23,E,1
+271,John García,30,hombre,VIP,934.3090778687606,Los Angeles,7,D,1
+272,María Smith,29,otro,VIP,863.5791742763628,Ciudad de México,29,B,1
+273,Carlos Smith,44,otro,Backstage,370.7413320775571,Buenos Aires,27,D,1
+274,John Brown,42,otro,Backstage,73.5341412354206,Miami,29,E,1
+275,Alice Rivera,23,mujer,VIP,572.5943859661105,Santiago,41,C,1
+276,Laura Rivera,30,hombre,General,170.02265491245657,Toronto,47,C,0
+277,John Johnson,24,otro,VIP,284.7199554617704,Ciudad de México,29,C,1
+278,Carlos García,29,hombre,General,727.9693053731139,Los Angeles,45,D,0
+279,Carlos Lopez,56,otro,Backstage,475.9456741197491,Madrid,17,A,1
+280,Luis Martinez,55,otro,General,110.16125664195997,Madrid,41,A,0
+281,John Lopez,42,hombre,VIP,88.86287171937502,Miami,50,D,0
+282,Luis Smith,51,otro,Backstage,653.270694035438,Buenos Aires,15,C,1
+283,Laura Johnson,53,otro,Backstage,126.16007940761558,Los Angeles,22,B,0
+284,Samantha Johnson,47,mujer,VIP,182.1458605577754,Ciudad de México,43,D,0
+285,Alice Doe,41,otro,VIP,77.30471115117955,Madrid,46,B,0
+286,Emma Lopez,39,mujer,General,551.8073481865861,Ciudad de México,12,A,1
+287,Luis García,41,otro,Backstage,844.256298217394,Lima,25,E,0
+288,Laura Martinez,51,mujer,VIP,397.26627371542475,Bogotá,15,D,1
+289,Carlos Brown,41,mujer,General,483.52231519590447,Nueva York,39,C,1
+290,Alice Smith,49,hombre,VIP,921.8669203054845,Nueva York,6,A,1
+291,Alice Doe,19,otro,Backstage,208.3569613362928,Los Angeles,35,B,0
+292,Luis Doe,33,mujer,Backstage,355.89456919833157,Nueva York,38,D,0
+293,Sofia Smith,28,mujer,VIP,385.4377898473242,Buenos Aires,12,B,1
+294,Robert Smith,52,hombre,General,312.6607047294729,Bogotá,13,B,0
+295,Laura Lee,32,hombre,Backstage,555.3401079247897,Toronto,19,E,1
+296,Samantha Lopez,33,otro,Backstage,275.8788774544937,Madrid,38,A,0
+297,Robert Johnson,41,hombre,Backstage,240.8283712677691,Buenos Aires,22,C,0
+298,John Smith,32,hombre,General,639.2044323868895,Toronto,21,C,0
+299,Luis Rivera,59,mujer,Backstage,987.3416707211599,Bogotá,22,D,0
+300,Carlos García,49,mujer,VIP,563.7583026116899,Ciudad de México,14,D,1
+301,María Johnson,22,hombre,General,212.53870674111255,Nueva York,33,D,1
+302,Carlos Doe,49,mujer,General,270.199050761724,Buenos Aires,3,D,0
+303,Emma Doe,36,mujer,General,933.5408534371805,Santiago,15,A,1
+304,John García,32,hombre,General,511.8138720245325,Los Angeles,23,C,1
+305,Luis Lopez,53,hombre,VIP,636.3439610672284,Madrid,37,E,1
+306,Emma Martinez,28,otro,General,143.14709670109488,Ciudad de México,3,C,1
+307,Carlos García,43,hombre,Backstage,573.6001577776766,Los Angeles,40,E,0
+308,John Brown,38,hombre,General,86.63538769421828,Toronto,35,E,0
+309,Sofia Johnson,46,otro,Backstage,599.7401582760748,Miami,28,A,0
+310,Luis Gonzalez,28,hombre,General,284.3480006967368,Santiago,11,A,0
+311,Alice García,51,otro,VIP,713.1503914692097,Toronto,21,D,0
+312,Robert Rivera,28,otro,General,614.8560294234607,Madrid,8,A,1
+313,Alice Doe,49,otro,Backstage,99.45419771690999,Los Angeles,1,E,1
+314,Samantha Doe,23,mujer,General,217.05963914756768,Toronto,20,E,0
+315,Sofia Lopez,22,hombre,Backstage,226.2058094822301,Los Angeles,20,C,1
+316,Alice Lopez,29,hombre,General,180.38529146347813,Nueva York,18,A,1
+317,Emma Brown,27,otro,General,64.73186070676613,Los Angeles,36,A,0
+318,Alice Johnson,60,mujer,General,153.80912790018834,Toronto,21,A,0
+319,María Lee,45,otro,Backstage,574.4959622332946,Miami,41,E,0
+320,Emma Gonzalez,19,mujer,General,980.4039569060676,Madrid,21,C,1
+321,Samantha Lee,57,otro,VIP,239.1582522352114,Nueva York,29,B,0
+322,Emma García,18,mujer,General,877.8858296025322,Los Angeles,14,E,1
+323,Sofia Gonzalez,37,mujer,General,683.3172913449379,Madrid,24,E,1
+324,Laura Lee,59,mujer,VIP,797.362731839074,Ciudad de México,43,E,1
+325,María Doe,55,otro,VIP,963.9250778463974,Lima,39,E,0
+326,Emma Johnson,33,mujer,VIP,456.52010890957047,Buenos Aires,21,B,1
+327,Luis García,52,otro,General,292.60426859444186,Nueva York,41,E,1
+328,María García,31,mujer,VIP,341.04167276151696,Nueva York,9,B,0
+329,John García,45,mujer,General,913.9406328664702,Nueva York,15,D,0
+330,Luis Brown,51,mujer,VIP,130.104457048965,Miami,23,E,1
+331,Sofia Lopez,45,mujer,General,254.8203067618903,Nueva York,30,D,0
+332,Samantha Rivera,57,mujer,General,900.1051331990806,Miami,31,B,1
+333,Emma Brown,42,mujer,VIP,563.3301129641562,Toronto,10,B,1
+334,Samantha Rivera,36,hombre,General,667.3926515108603,Lima,19,D,0
+335,Laura Doe,51,otro,General,589.9939552681122,Toronto,49,B,1
+336,Alice García,30,otro,General,524.8541343504036,Miami,33,C,0
+337,John Johnson,27,hombre,VIP,370.71359098912967,Miami,37,A,0
+338,María Brown,58,hombre,Backstage,370.48044363723363,Los Angeles,5,A,0
+339,María García,49,hombre,Backstage,763.4881661501781,Los Angeles,46,A,1
+340,María Johnson,43,otro,VIP,564.3584620174192,Santiago,35,D,1
+341,Robert Doe,29,mujer,VIP,592.4275274601478,Lima,26,A,0
+342,Sofia Smith,55,otro,Backstage,427.0980148211119,Ciudad de México,30,C,1
+343,Carlos Lee,53,otro,VIP,479.4991123509475,Ciudad de México,23,C,1
+344,Laura García,58,mujer,Backstage,898.1230198145847,Ciudad de México,22,C,1
+345,Alice Martinez,37,mujer,General,544.9022455960421,Bogotá,22,A,1
+346,Emma Johnson,53,otro,VIP,73.80454292885517,Nueva York,36,E,1
+347,Samantha Gonzalez,24,otro,General,933.648801327802,Los Angeles,49,E,0
+348,Emma García,45,mujer,VIP,297.8907866496748,Nueva York,40,E,0
+349,Samantha Johnson,56,mujer,General,789.9041075307318,Bogotá,30,C,1
+350,Carlos Lee,22,otro,General,720.7239142079253,Buenos Aires,22,A,0
+351,Laura García,33,otro,Backstage,993.29632344926,Miami,2,B,0
+352,Samantha Lee,48,mujer,Backstage,472.5142837079932,Lima,21,E,0
+353,Robert Smith,30,mujer,VIP,262.17469718060613,Buenos Aires,7,D,0
+354,Alice Lopez,52,mujer,General,159.42958297587458,Bogotá,3,A,0
+355,Luis García,46,hombre,VIP,497.2090596868326,Santiago,37,A,1
+356,Laura Johnson,20,otro,VIP,731.3768923540665,Buenos Aires,15,E,0
+357,Emma Doe,40,otro,General,909.0191535884628,Los Angeles,2,A,1
+358,Robert Smith,45,hombre,General,517.2241446871369,Toronto,28,B,0
+359,Carlos Martinez,18,mujer,General,318.3914835576524,Miami,39,C,0
+360,Robert Smith,31,hombre,General,522.519315778082,Los Angeles,49,C,0
+361,Alice Rivera,48,mujer,General,149.97065143832583,Toronto,48,D,1
+362,Sofia Lopez,49,otro,General,676.8403962643002,Santiago,2,B,0
+363,Laura Doe,59,otro,Backstage,165.5504463428046,Buenos Aires,26,D,1
+364,Luis Brown,52,otro,General,385.0185596075026,Bogotá,38,C,1
+365,Robert Gonzalez,20,mujer,General,270.82988428386466,Madrid,45,D,1
+366,Carlos Gonzalez,26,otro,Backstage,519.8303629308541,Toronto,29,E,1
+367,Alice Lee,51,otro,VIP,813.4097132391853,Nueva York,38,C,0
+368,Laura García,24,hombre,Backstage,445.4252927198654,Nueva York,11,E,1
+369,Emma Smith,28,hombre,Backstage,666.8229965553737,Madrid,43,A,0
+370,Alice Johnson,23,hombre,Backstage,495.071174128259,Bogotá,8,B,1
+371,Luis Brown,48,otro,General,851.3588591166391,Toronto,7,C,0
+372,Emma García,59,hombre,General,651.6460634739132,Santiago,24,B,0
+373,John Lee,50,hombre,VIP,443.6901473083923,Buenos Aires,27,D,1
+374,Samantha Doe,19,mujer,VIP,948.6541306999899,Nueva York,42,C,1
+375,Emma Martinez,60,mujer,VIP,947.0470322083272,Nueva York,21,A,1
+376,Luis Lopez,21,mujer,VIP,641.5014586504824,Nueva York,23,D,1
+377,Emma Martinez,57,mujer,Backstage,828.7706467702465,Ciudad de México,10,E,1
+378,John Lopez,60,mujer,Backstage,619.0651535660303,Lima,26,A,0
+379,Robert Smith,55,hombre,General,787.0601957579233,Santiago,40,A,0
+380,Sofia Rivera,52,mujer,General,542.1164831314453,Madrid,3,D,1
+381,Emma Brown,50,mujer,VIP,361.2733292879267,Ciudad de México,11,D,1
+382,Laura Gonzalez,48,mujer,Backstage,214.6639838670309,Santiago,20,A,0
+383,Samantha Johnson,22,mujer,VIP,163.8904115003095,Miami,45,A,0
+384,Laura Gonzalez,44,mujer,Backstage,870.0335600249741,Miami,50,C,1
+385,Robert Brown,40,mujer,Backstage,200.8025682724033,Bogotá,24,E,0
+386,Samantha Rivera,30,otro,General,584.1489550006656,Buenos Aires,40,C,0
+387,Laura Smith,49,otro,VIP,834.4550198840285,Ciudad de México,24,E,0
+388,Sofia Rivera,49,hombre,VIP,931.4879223640137,Nueva York,34,E,1
+389,Emma Gonzalez,35,hombre,General,219.0462160187436,Santiago,3,E,1
+390,Carlos Johnson,21,mujer,Backstage,589.6126986086975,Buenos Aires,28,A,0
+391,María Johnson,18,otro,General,103.05324674750163,Lima,43,E,1
+392,Carlos Lee,28,mujer,VIP,396.4997622305423,Ciudad de México,50,D,1
+393,Samantha Johnson,45,hombre,VIP,368.94691278680847,Buenos Aires,38,C,1
+394,Samantha Gonzalez,53,mujer,Backstage,756.6543435993136,Buenos Aires,29,C,1
+395,Alice Brown,29,mujer,Backstage,237.96548843686134,Ciudad de México,8,C,0
+396,Laura Martinez,51,hombre,VIP,99.29391747566409,Toronto,12,C,1
+397,María Lee,33,otro,Backstage,616.5106225364782,Buenos Aires,43,C,0
+398,Samantha Gonzalez,21,otro,General,741.3008476922442,Buenos Aires,44,C,0
+399,Emma Martinez,22,otro,General,762.8696809746319,Ciudad de México,9,C,1
+400,Luis Brown,39,otro,Backstage,998.1311598202567,Buenos Aires,20,A,0
+401,Sofia Lopez,49,mujer,Backstage,570.837969105276,Toronto,34,B,0
+402,Sofia Brown,51,mujer,General,573.367505165745,Lima,18,D,0
+403,Laura Doe,47,hombre,VIP,245.07344961755837,Miami,46,B,0
+404,Luis Gonzalez,35,hombre,Backstage,181.69927193010932,Bogotá,40,A,1
+405,Alice Doe,18,hombre,Backstage,401.364096075631,Buenos Aires,40,E,0
+406,Carlos Gonzalez,31,otro,VIP,279.3105892076934,Lima,8,C,1
+407,John Rivera,45,otro,VIP,362.31411383917305,Toronto,26,E,0
+408,Sofia Lee,27,mujer,Backstage,371.72520244150627,Santiago,28,C,0
+409,María Gonzalez,56,mujer,General,431.5792421135986,Toronto,14,C,0
+410,Sofia Smith,58,hombre,Backstage,363.3670644382959,Los Angeles,28,B,0
+411,John Brown,39,mujer,VIP,254.73679844022837,Madrid,2,D,1
+412,Carlos García,23,hombre,General,322.40519382303114,Nueva York,48,B,0
+413,Laura García,33,otro,General,826.3332176913086,Buenos Aires,21,B,0
+414,Laura Doe,18,otro,General,487.8098066780933,Madrid,43,B,1
+415,Alice Doe,36,otro,Backstage,260.7899256074875,Ciudad de México,38,B,0
+416,Sofia Brown,20,otro,General,172.756916070866,Buenos Aires,39,D,1
+417,Luis García,36,otro,General,607.4875511336007,Ciudad de México,23,C,0
+418,Samantha García,49,otro,General,543.6183731117959,Nueva York,22,D,1
+419,Robert Johnson,49,hombre,VIP,513.2045800678809,Bogotá,24,C,1
+420,Alice Brown,31,otro,General,591.1765918563602,Buenos Aires,2,A,1
+421,Carlos Johnson,47,otro,VIP,407.50911039766345,Santiago,26,D,1
+422,Samantha García,25,mujer,VIP,519.1254035891973,Miami,27,C,1
+423,Laura Martinez,48,otro,Backstage,347.2816520671589,Santiago,28,C,0
+424,Samantha Johnson,56,mujer,General,345.9750831044492,Madrid,38,A,0
+425,Emma Rivera,33,mujer,VIP,681.2434979668401,Lima,32,D,1
+426,Laura Martinez,23,otro,Backstage,988.6367208622428,Madrid,31,E,1
+427,Sofia Lee,36,mujer,Backstage,805.4142376681799,Lima,37,D,0
+428,John Lee,52,mujer,General,472.51612445980413,Ciudad de México,40,D,1
+429,Robert Lopez,53,otro,General,123.74124505911006,Madrid,27,B,0
+430,Alice Doe,28,hombre,Backstage,80.59205245653887,Lima,29,A,0
+431,Carlos Johnson,21,hombre,General,500.0527274794074,Buenos Aires,34,E,0
+432,John Rivera,60,mujer,Backstage,521.367563085531,Miami,42,A,0
+433,Luis Doe,22,otro,Backstage,509.7535645502467,Santiago,2,B,0
+434,Sofia Smith,36,otro,General,914.9978632434079,Bogotá,17,A,0
+435,Alice Smith,49,otro,VIP,758.089186825803,Miami,8,D,0
+436,María García,27,otro,VIP,166.41412726739065,Los Angeles,21,B,1
+437,Alice Brown,35,otro,General,927.6575140390682,Toronto,48,D,1
+438,Carlos Lopez,34,hombre,General,333.1969227848523,Los Angeles,22,C,0
+439,Luis Johnson,51,mujer,Backstage,322.3296451884737,Bogotá,4,B,1
+440,Samantha Smith,32,otro,VIP,828.0469519347927,Santiago,12,C,0
+441,Emma Doe,46,mujer,VIP,286.8131753031495,Toronto,42,E,1
+442,Sofia Martinez,44,mujer,General,758.3746211322533,Toronto,36,E,0
+443,Robert Lee,46,otro,Backstage,470.93560191239305,Nueva York,17,D,0
+444,Emma Lee,44,hombre,General,113.26198859993653,Santiago,2,D,1
+445,María Smith,25,mujer,VIP,607.2867267512011,Buenos Aires,41,C,0
+446,Laura Johnson,57,hombre,VIP,584.3073255226416,Madrid,29,B,1
+447,Carlos Gonzalez,39,hombre,VIP,89.86925560399223,Madrid,11,D,1
+448,María Lopez,59,mujer,VIP,501.3718791268271,Madrid,1,A,0
+449,María Gonzalez,39,mujer,VIP,751.2198200618654,Miami,35,B,1
+450,Samantha Rivera,42,hombre,VIP,928.5402039863818,Lima,29,B,1
+451,Emma Martinez,45,otro,VIP,853.3816393642097,Ciudad de México,21,D,1
+452,Luis Doe,49,otro,VIP,231.71929577469638,Lima,25,E,1
+453,Carlos Lee,48,mujer,VIP,232.94788525517183,Buenos Aires,17,A,0
+454,John Johnson,48,mujer,Backstage,790.0199063899229,Miami,6,A,0
+455,Robert García,42,otro,VIP,257.766620898824,Nueva York,2,B,1
+456,Samantha Rivera,52,mujer,General,921.9674230113164,Ciudad de México,29,D,0
+457,Laura Brown,58,hombre,VIP,536.3476747196162,Bogotá,19,C,0
+458,Sofia Johnson,20,otro,General,492.6689538250013,Miami,37,A,0
+459,Emma Lopez,29,otro,Backstage,338.8700089122404,Madrid,18,E,0
+460,Luis Brown,18,mujer,VIP,956.6149904809853,Ciudad de México,25,C,0
+461,Alice Smith,32,otro,VIP,195.79490777120256,Los Angeles,26,E,0
+462,Samantha Johnson,45,mujer,General,730.7407773307335,Buenos Aires,35,C,0
+463,Alice Gonzalez,26,mujer,General,213.27539550701627,Lima,37,C,0
+464,Laura Lopez,42,mujer,Backstage,780.5159226080303,Lima,4,B,1
+465,Luis Lee,44,otro,Backstage,751.6917601279039,Lima,32,A,0
+466,Laura Johnson,35,hombre,Backstage,907.0321618370903,Bogotá,48,B,1
+467,María Lee,46,mujer,General,446.88847465856827,Lima,37,D,0
+468,Laura Gonzalez,32,otro,VIP,539.3138933205614,Toronto,15,C,0
+469,Samantha Brown,31,mujer,VIP,457.38832275738173,Santiago,44,E,1
+470,María Rivera,21,hombre,Backstage,745.1264297045415,Ciudad de México,4,A,1
+471,John Smith,60,mujer,General,205.7368284444936,Nueva York,40,C,0
+472,María Rivera,24,hombre,Backstage,515.7012768690415,Buenos Aires,10,E,0
+473,John Lee,48,mujer,Backstage,206.51478150444282,Santiago,42,B,0
+474,Sofia Gonzalez,35,mujer,VIP,173.64731795192483,Bogotá,31,C,1
+475,Alice Smith,26,hombre,General,427.51772727438663,Santiago,20,C,1
+476,Emma Johnson,40,otro,VIP,482.42886774373414,Toronto,45,D,0
+477,Laura Rivera,22,hombre,Backstage,530.4677439006708,Lima,1,A,1
+478,Samantha Lee,47,otro,General,861.0579462576727,Bogotá,19,C,1
+479,Alice Brown,27,otro,VIP,844.7197638764251,Madrid,8,B,1
+480,Sofia Rivera,33,otro,Backstage,192.80954080099835,Lima,22,B,1
+481,John Smith,43,hombre,Backstage,622.8088333019606,Bogotá,42,B,0
+482,Laura Rivera,45,mujer,VIP,964.1342355290999,Miami,33,A,1
+483,Emma Smith,49,otro,VIP,788.7290830131484,Bogotá,19,A,0
+484,Sofia Gonzalez,18,mujer,General,606.337635715205,Toronto,46,E,0
+485,Luis Doe,33,hombre,General,527.3872641673968,Los Angeles,36,D,1
+486,John Martinez,47,otro,General,989.0328600905998,Buenos Aires,1,C,0
+487,John Lopez,55,mujer,VIP,490.13830696266115,Los Angeles,23,D,0
+488,Emma Lee,45,hombre,General,173.7397382294435,Ciudad de México,31,C,1
+489,Laura Brown,18,hombre,Backstage,167.3359134888317,Santiago,30,C,1
+490,Alice Brown,56,mujer,VIP,396.81042366374584,Ciudad de México,13,C,1
+491,Laura Lee,52,mujer,General,768.0357840213327,Ciudad de México,1,A,1
+492,Carlos Brown,47,hombre,General,925.6503462860412,Bogotá,43,D,1
+493,Robert Gonzalez,19,hombre,Backstage,663.6337412953347,Santiago,41,C,0
+494,María Smith,52,otro,General,214.70101423539003,Lima,36,D,0
+495,Alice Doe,41,hombre,General,579.0649385369848,Lima,32,D,0
+496,Sofia Lopez,52,mujer,Backstage,946.2970351865797,Madrid,1,C,0
+497,Emma Rivera,21,hombre,VIP,758.6651093066422,Miami,10,B,0
+498,Robert Rivera,24,mujer,VIP,224.51439633524242,Buenos Aires,39,C,0
+499,John Rivera,58,mujer,VIP,965.8603057027527,Toronto,30,B,0
+500,Laura Doe,18,mujer,General,274.4257144287353,Lima,49,E,1
+501,Laura Smith,47,mujer,General,117.2793969583167,Toronto,49,C,0
+502,John Doe,52,otro,General,102.99164892855235,Santiago,29,D,1
+503,John Martinez,34,hombre,General,195.09613782245574,Lima,26,C,1
+504,Emma Doe,31,otro,General,573.8909641171987,Santiago,35,A,1
+505,Alice Martinez,45,otro,Backstage,134.63786177892933,Santiago,32,A,0
+506,Robert Smith,30,otro,VIP,516.100795305684,Toronto,22,D,1
+507,Alice Martinez,60,otro,VIP,180.71688140082375,Toronto,27,B,1
+508,John Lee,19,hombre,Backstage,77.77246742096509,Ciudad de México,48,D,1
+509,María Johnson,47,otro,Backstage,449.28991881294615,Buenos Aires,50,B,1
+510,Samantha Lopez,44,hombre,Backstage,209.7536312868429,Nueva York,18,C,0
+511,Carlos Rivera,34,otro,General,853.0576566915056,Miami,45,B,1
+512,John García,59,mujer,VIP,628.0684086052166,Santiago,30,A,0
+513,Samantha Johnson,20,otro,General,576.8475155445385,Lima,48,A,1
+514,María Brown,59,mujer,General,753.8581705660397,Miami,3,D,0
+515,John Brown,48,hombre,VIP,802.5675077100315,Nueva York,3,C,1
+516,Carlos Rivera,48,hombre,General,761.1622142070572,Ciudad de México,5,B,0
+517,Samantha Johnson,29,mujer,Backstage,236.43456837391003,Santiago,18,E,0
+518,Alice García,58,mujer,Backstage,762.363229673321,Los Angeles,29,A,1
+519,Laura García,18,hombre,VIP,550.3020455435246,Buenos Aires,42,D,0
+520,Laura Smith,41,mujer,General,255.55900074109562,Bogotá,40,B,1
+521,Emma Lopez,42,otro,General,959.7889618027147,Miami,17,D,1
+522,Luis Martinez,20,hombre,General,500.6264369874047,Buenos Aires,48,A,0
+523,John Brown,51,otro,Backstage,720.3236095009765,Ciudad de México,6,D,0
+524,Luis Martinez,48,otro,Backstage,888.1176384660805,Santiago,12,C,1
+525,María Lee,27,mujer,General,235.90793135819285,Santiago,16,C,0
+526,María Lee,50,otro,Backstage,659.0712775820361,Los Angeles,1,D,1
+527,Sofia Gonzalez,44,otro,Backstage,869.9442289823163,Lima,7,D,0
+528,Alice Johnson,53,otro,Backstage,448.9182934588605,Nueva York,17,A,1
+529,Samantha Johnson,26,hombre,Backstage,397.91034100048637,Bogotá,9,A,1
+530,John Rivera,55,otro,VIP,674.9785437566974,Los Angeles,12,D,1
+531,Samantha Brown,49,mujer,General,512.8865635644993,Nueva York,33,C,0
+532,Robert Doe,55,otro,VIP,135.99312994488963,Buenos Aires,34,C,0
+533,María Lee,48,hombre,Backstage,443.20667357288096,Los Angeles,5,B,0
+534,María Brown,23,mujer,Backstage,425.6896755814879,Toronto,25,A,0
+535,Samantha Doe,18,mujer,VIP,412.2497760516534,Ciudad de México,28,D,0
+536,María Rivera,44,otro,General,641.7120974986528,Ciudad de México,35,A,0
+537,Alice Doe,49,otro,VIP,891.0882455627543,Buenos Aires,45,C,1
+538,Alice Lee,40,otro,General,225.49998738201762,Toronto,24,B,0
+539,Robert Smith,38,mujer,VIP,273.20578859735866,Toronto,5,D,0
+540,John García,45,hombre,General,905.4405396883278,Santiago,16,E,1
+541,Samantha Lopez,47,hombre,Backstage,500.07277194426695,Toronto,50,A,1
+542,Laura Gonzalez,51,otro,VIP,88.73101081317375,Nueva York,42,C,0
+543,Carlos Doe,40,mujer,VIP,251.59163471363527,Santiago,1,B,0
+544,Laura Brown,21,hombre,General,65.34010651081414,Madrid,12,B,0
+545,John Rivera,50,mujer,Backstage,248.69481193909115,Buenos Aires,19,E,1
+546,Emma Lopez,21,hombre,VIP,426.4634989395462,Ciudad de México,41,B,0
+547,Robert Lee,58,otro,VIP,173.59505819683457,Toronto,5,C,0
+548,Emma Martinez,32,hombre,General,425.44902967128377,Buenos Aires,40,D,1
+549,Alice García,27,hombre,VIP,443.71966409602845,Nueva York,38,B,1
+550,John Doe,27,otro,General,485.2114646440893,Santiago,6,E,1
+551,Sofia Doe,24,hombre,VIP,568.2317502618557,Toronto,15,C,0
+552,John Rivera,42,hombre,Backstage,287.42071973673126,Miami,41,E,1
+553,María Brown,27,otro,VIP,101.47810481437281,Madrid,9,C,1
+554,Sofia García,19,otro,VIP,946.1487502732946,Nueva York,13,E,0
+555,Emma Doe,43,otro,VIP,737.5032369692589,Lima,1,A,1
+556,Alice Lopez,48,otro,Backstage,224.5398645012202,Bogotá,10,D,1
+557,Laura Lopez,30,otro,VIP,842.9540925097556,Buenos Aires,47,B,1
+558,María Johnson,55,otro,VIP,250.27221953492742,Bogotá,22,D,1
+559,Carlos Johnson,53,otro,Backstage,986.2907238179981,Lima,15,C,1
+560,Robert Lopez,56,mujer,General,119.20110897422613,Madrid,1,B,0
+561,John Johnson,40,otro,General,701.0540495352634,Ciudad de México,29,B,0
+562,Carlos Lopez,29,otro,General,486.05539513301636,Bogotá,22,D,0
+563,John Martinez,18,hombre,VIP,128.3236819138412,Miami,48,E,0
+564,María Brown,28,mujer,General,740.5005530125455,Nueva York,9,E,0
+565,Carlos Lee,42,hombre,Backstage,232.76955030618163,Madrid,2,C,1
+566,Sofia Gonzalez,19,otro,General,677.2628640643671,Bogotá,25,E,0
+567,María Martinez,31,hombre,General,66.76653830477173,Nueva York,2,B,1
+568,Robert Gonzalez,50,hombre,VIP,122.09225536020202,Lima,48,D,1
+569,Carlos García,19,mujer,VIP,152.91516288455887,Ciudad de México,49,E,1
+570,John Smith,22,mujer,Backstage,479.25559004808116,Lima,19,C,1
+571,Emma Lee,27,hombre,General,402.63122803473846,Toronto,14,D,0
+572,Samantha Martinez,34,hombre,Backstage,272.0716767559529,Nueva York,9,A,1
+573,Emma García,47,otro,General,68.48753958292713,Lima,15,D,1
+574,Laura Brown,37,mujer,Backstage,338.60552966552723,Nueva York,9,C,0
+575,María Lee,20,mujer,Backstage,764.370485904721,Buenos Aires,15,A,1
+576,Alice García,49,hombre,General,101.39376319375914,Buenos Aires,12,D,1
+577,Sofia García,43,hombre,VIP,430.00333974098135,Miami,26,E,0
+578,Samantha García,55,mujer,VIP,701.8609878003112,Bogotá,31,C,0
+579,Robert Doe,33,hombre,VIP,686.3752659071338,Bogotá,13,B,0
+580,Robert Lopez,51,otro,VIP,948.3982283375813,Toronto,29,B,0
+581,Samantha Gonzalez,54,otro,General,666.477204469083,Buenos Aires,15,C,0
+582,Robert García,41,mujer,VIP,980.9281914904739,Bogotá,49,E,1
+583,Emma Johnson,57,mujer,Backstage,568.5637283297594,Toronto,22,A,0
+584,Sofia Brown,51,hombre,VIP,245.29058374576246,Santiago,36,D,0
+585,Sofia García,60,mujer,Backstage,257.93343436001913,Madrid,50,D,0
+586,John Johnson,29,mujer,Backstage,952.9895436594858,Santiago,8,C,1
+587,Emma Martinez,57,hombre,Backstage,551.1556521300797,Los Angeles,27,C,0
+588,Luis Lopez,42,otro,Backstage,385.96001039789525,Toronto,35,A,0
+589,María Lopez,29,mujer,Backstage,606.4516601939752,Los Angeles,39,D,0
+590,Robert Doe,36,hombre,Backstage,391.71086423626406,Santiago,7,A,0
+591,Sofia Doe,46,hombre,Backstage,965.3637974811876,Nueva York,21,B,0
+592,John Gonzalez,48,hombre,General,795.5324834290417,Lima,14,D,0
+593,Laura Martinez,48,mujer,General,214.5696071974148,Lima,24,D,1
+594,Carlos Smith,56,hombre,Backstage,586.4192696508371,Toronto,16,D,1
+595,Robert García,48,otro,General,823.1179713081757,Nueva York,46,A,0
+596,Laura Doe,52,otro,Backstage,716.5340926907072,Buenos Aires,22,C,0
+597,Luis Lee,23,hombre,General,69.55610767360538,Lima,32,B,0
+598,Alice Smith,32,hombre,VIP,870.6265129418817,Miami,2,D,1
+599,Emma Smith,35,otro,General,115.55503988862554,Los Angeles,10,D,0
+600,Sofia Martinez,26,hombre,Backstage,958.0878545815543,Ciudad de México,27,D,0
+601,Sofia Johnson,59,mujer,General,952.7072075140488,Nueva York,37,A,1
+602,Alice Smith,58,mujer,Backstage,876.786191619222,Lima,13,E,0
+603,Robert Gonzalez,42,mujer,Backstage,200.01331534295701,Nueva York,30,C,0
+604,Alice Johnson,36,mujer,VIP,657.626190567437,Nueva York,9,E,0
+605,Alice Rivera,19,mujer,Backstage,472.2277842211913,Los Angeles,45,B,1
+606,Carlos Gonzalez,40,hombre,General,65.5912492847718,Toronto,38,A,1
+607,Robert Doe,18,mujer,VIP,277.9747395962079,Los Angeles,6,B,0
+608,Sofia Smith,35,otro,VIP,523.2263766488686,Toronto,32,E,0
+609,María Johnson,59,mujer,VIP,420.8597659022954,Bogotá,10,A,0
+610,Carlos Smith,52,otro,General,550.4087742912735,Miami,48,E,1
+611,Sofia Doe,37,mujer,VIP,997.8222549681043,Toronto,30,A,0
+612,Samantha Lee,45,mujer,General,650.0366860053238,Bogotá,9,C,1
+613,Emma Smith,27,mujer,Backstage,134.45141045456376,Buenos Aires,20,B,0
+614,Samantha Rivera,45,otro,Backstage,206.44128301501644,Buenos Aires,16,B,1
+615,Carlos Lee,37,mujer,Backstage,260.60260377247994,Miami,45,E,0
+616,Emma Lopez,46,otro,General,758.2529044513909,Toronto,11,C,1
+617,John Lopez,48,otro,Backstage,469.3464539004747,Lima,2,D,1
+618,Carlos Brown,52,hombre,VIP,234.49665479199703,Ciudad de México,3,D,0
+619,John Johnson,57,otro,Backstage,519.9663578451664,Miami,49,A,0
+620,Sofia García,50,otro,Backstage,964.5115529731769,Bogotá,38,B,1
+621,Emma Rivera,28,mujer,Backstage,747.6829413478067,Santiago,15,D,0
+622,Sofia Gonzalez,34,mujer,General,469.31761231744906,Madrid,36,E,1
+623,Samantha Lopez,57,otro,VIP,413.5166950582032,Buenos Aires,22,E,0
+624,Samantha García,59,hombre,General,737.6742361276038,Madrid,44,C,0
+625,Alice Smith,27,otro,VIP,527.477778493626,Nueva York,9,C,0
+626,Luis Johnson,23,otro,General,891.2375034286221,Miami,49,E,0
+627,Robert Brown,41,hombre,General,369.63238126214173,Los Angeles,19,B,0
+628,Alice Martinez,54,otro,VIP,174.79747714072187,Lima,39,D,1
+629,Alice Lopez,22,otro,General,229.26202846884954,Ciudad de México,1,C,0
+630,María García,55,hombre,General,860.6238523803535,Lima,19,D,1
+631,Emma Lee,29,otro,VIP,315.8261976904045,Ciudad de México,6,B,0
+632,Alice Doe,43,mujer,General,53.6056065167121,Bogotá,10,A,0
+633,Robert Martinez,44,hombre,Backstage,65.68269771176624,Santiago,2,E,0
+634,Laura Lee,50,otro,VIP,450.6728837649888,Santiago,21,B,0
+635,Carlos Smith,27,otro,VIP,828.7159690061394,Miami,19,C,1
+636,Laura García,34,hombre,VIP,770.4202734105119,Los Angeles,20,C,0
+637,María Lee,56,otro,General,118.72176641657727,Santiago,11,A,1
+638,John Gonzalez,45,hombre,VIP,645.928665794419,Buenos Aires,1,B,0
+639,Sofia Martinez,34,mujer,General,190.80369654499574,Miami,33,B,0
+640,Robert García,53,mujer,General,468.0901031498429,Toronto,29,A,0
+641,Laura Doe,56,otro,Backstage,751.878722325182,Toronto,25,D,0
+642,María Doe,29,otro,General,518.9376658308399,Madrid,20,C,0
+643,Sofia Brown,26,mujer,General,928.3345576898604,Madrid,11,C,1
+644,Robert Martinez,30,hombre,Backstage,529.8849166465468,Toronto,6,D,0
+645,Carlos Lopez,33,hombre,Backstage,638.0435109848439,Nueva York,45,C,1
+646,Sofia García,50,otro,Backstage,365.81686692527796,Toronto,4,B,0
+647,Robert Smith,29,mujer,General,562.715647772314,Nueva York,41,E,1
+648,John Lee,30,hombre,VIP,336.1009684007275,Santiago,45,D,1
+649,Samantha Doe,27,hombre,General,629.0405862360882,Lima,10,A,1
+650,Samantha García,50,hombre,General,209.44241770055825,Nueva York,20,C,1
+651,Luis Lopez,51,mujer,Backstage,456.4190590373864,Ciudad de México,24,D,0
+652,María Gonzalez,45,hombre,VIP,646.8906604736951,Nueva York,36,A,0
+653,John Johnson,34,mujer,General,536.970292088205,Miami,16,C,1
+654,Sofia Lee,28,mujer,Backstage,604.6182639675385,Bogotá,16,B,1
+655,Luis Lopez,58,hombre,General,969.0753705080593,Toronto,50,D,1
+656,Laura Smith,37,hombre,Backstage,884.859278108593,Ciudad de México,10,D,1
+657,Sofia Doe,39,hombre,General,493.7999336398072,Ciudad de México,35,C,1
+658,Luis García,55,mujer,Backstage,991.7551750241483,Buenos Aires,47,D,0
+659,John Lopez,25,otro,VIP,410.5600069441905,Lima,41,E,0
+660,Sofia Lee,35,mujer,VIP,175.90486176493275,Nueva York,5,B,1
+661,Sofia García,50,mujer,Backstage,843.3467521264396,Ciudad de México,42,A,1
+662,Samantha Smith,20,mujer,Backstage,796.9615334985906,Miami,24,B,1
+663,Laura Gonzalez,51,hombre,General,700.6069809629183,Los Angeles,21,E,1
+664,John Johnson,57,mujer,General,197.86457465789954,Buenos Aires,10,D,1
+665,Carlos Gonzalez,56,hombre,Backstage,71.51343771108492,Bogotá,35,D,0
+666,Alice Doe,33,mujer,VIP,395.1152682230767,Madrid,36,C,1
+667,John Martinez,60,mujer,VIP,537.5936134039279,Santiago,34,D,0
+668,Sofia Doe,43,hombre,General,109.55334100041992,Los Angeles,13,A,0
+669,Samantha Brown,21,mujer,VIP,645.5320851283897,Los Angeles,47,B,0
+670,Samantha Lee,41,mujer,Backstage,919.8449539996485,Santiago,20,C,1
+671,John Doe,25,hombre,Backstage,139.55320634318548,Miami,29,A,0
+672,Carlos Brown,22,otro,VIP,423.2858242412313,Santiago,6,B,1
+673,Sofia Gonzalez,34,otro,VIP,160.02493414959753,Ciudad de México,50,A,0
+674,Emma Rivera,41,hombre,General,228.26276123372008,Miami,32,D,1
+675,Laura Gonzalez,40,hombre,Backstage,778.0393104282106,Bogotá,6,D,1
+676,Sofia Lopez,34,hombre,VIP,142.80571226929908,Madrid,12,E,1
+677,Robert Gonzalez,36,hombre,Backstage,537.0063220026088,Toronto,20,E,0
+678,John Martinez,26,mujer,Backstage,959.4125600448435,Ciudad de México,24,D,1
+679,Alice Smith,52,hombre,Backstage,602.7978914974235,Lima,24,B,0
+680,John Doe,26,mujer,General,203.09441843573174,Lima,42,C,0
+681,Robert Brown,42,mujer,Backstage,243.7790854050095,Bogotá,19,A,0
+682,John Doe,60,hombre,General,277.52473543067254,Ciudad de México,21,C,1
+683,John García,35,otro,General,568.6263140399907,Miami,21,D,1
+684,Emma Gonzalez,45,hombre,Backstage,462.77095687786357,Madrid,36,C,1
+685,John García,24,otro,Backstage,159.2453831400531,Ciudad de México,9,B,0
+686,Sofia Johnson,49,otro,Backstage,130.08301066463463,Ciudad de México,39,C,0
+687,Sofia García,21,mujer,VIP,255.43116585966737,Lima,14,B,0
+688,Laura Gonzalez,50,hombre,VIP,62.81870430838516,Los Angeles,50,C,1
+689,Laura Lopez,50,hombre,Backstage,662.795940804627,Lima,25,A,1
+690,Robert Lee,44,mujer,VIP,736.6337064557376,Toronto,19,D,0
+691,María Martinez,34,mujer,Backstage,289.32559370950514,Toronto,13,E,1
+692,Sofia Johnson,40,mujer,General,338.78811127685753,Toronto,4,D,0
+693,Laura Martinez,26,otro,VIP,320.68855815915583,Santiago,40,B,0
+694,Laura Doe,42,hombre,General,987.0904896662803,Santiago,14,C,0
+695,John Rivera,50,otro,General,116.34613391878528,Madrid,5,E,1
+696,Emma Lopez,42,hombre,Backstage,708.605465282871,Bogotá,1,E,0
+697,Alice Rivera,31,mujer,Backstage,423.98778790216596,Ciudad de México,22,D,1
+698,Samantha Lopez,35,hombre,VIP,438.27462822311685,Los Angeles,2,A,1
+699,Alice Johnson,36,otro,General,103.7690571492201,Los Angeles,7,B,1
+700,Carlos Lee,42,mujer,General,799.4304570309323,Nueva York,16,D,1
+701,María Johnson,19,otro,General,175.80581016793195,Miami,31,E,1
+702,Sofia Rivera,50,mujer,VIP,572.5289258802583,Los Angeles,8,B,1
+703,Samantha Martinez,19,otro,General,621.3893538944058,Ciudad de México,18,C,0
+704,Laura Martinez,42,hombre,Backstage,481.6264498426848,Miami,45,B,0
+705,Robert Rivera,45,mujer,General,633.0625704667589,Buenos Aires,44,E,0
+706,Emma Johnson,34,mujer,General,553.7567335603374,Lima,4,D,1
+707,Robert Gonzalez,60,mujer,General,82.57284536548644,Madrid,42,B,0
+708,Laura Martinez,44,hombre,Backstage,262.60257859249634,Miami,32,A,1
+709,María Lee,53,hombre,Backstage,538.9113610797665,Buenos Aires,36,C,1
+710,John Johnson,29,mujer,VIP,636.0682665920734,Nueva York,23,C,0
+711,Sofia Gonzalez,57,mujer,General,126.37010975124929,Nueva York,48,A,0
+712,Robert Johnson,45,mujer,Backstage,239.27984655033077,Madrid,6,C,1
+713,Emma Johnson,60,hombre,Backstage,765.2833746870458,Ciudad de México,42,C,0
+714,Sofia Gonzalez,51,otro,VIP,900.834080966527,Madrid,40,C,1
+715,Alice Rivera,35,hombre,General,71.22106060532631,Bogotá,11,C,1
+716,Luis Brown,42,otro,VIP,965.4099118645071,Buenos Aires,3,A,0
+717,Samantha Martinez,26,mujer,Backstage,914.9244716486584,Ciudad de México,35,D,1
+718,Laura Rivera,19,mujer,VIP,302.85759842210393,Bogotá,9,D,0
+719,Alice Doe,55,mujer,VIP,776.009943860854,Toronto,50,D,0
+720,Luis García,41,mujer,VIP,696.8528696901308,Santiago,41,D,0
+721,Carlos Doe,27,otro,VIP,778.3838562039631,Bogotá,44,B,0
+722,Luis Martinez,38,mujer,Backstage,757.1788262961518,Buenos Aires,38,A,1
+723,Samantha Doe,22,hombre,VIP,496.4962391133863,Nueva York,30,A,1
+724,Robert Smith,19,otro,Backstage,275.1098481646674,Madrid,43,A,1
+725,Alice Lee,36,mujer,General,407.5653438485243,Miami,50,D,1
+726,Luis Smith,22,hombre,General,373.3833541043536,Madrid,41,D,0
+727,Sofia Martinez,59,mujer,VIP,469.1851611490378,Miami,38,A,1
+728,John Doe,41,hombre,VIP,325.5991003012847,Buenos Aires,15,C,0
+729,Laura Rivera,39,otro,Backstage,676.3922738344229,Madrid,36,B,1
+730,Sofia Doe,48,hombre,Backstage,319.6003029336207,Buenos Aires,49,C,0
+731,Laura Lee,43,hombre,VIP,804.4199474118604,Nueva York,30,B,0
+732,Emma Lee,57,hombre,VIP,960.7089131538847,Buenos Aires,21,E,0
+733,Alice Rivera,18,mujer,VIP,376.7126347580237,Bogotá,46,B,1
+734,Sofia Rivera,47,hombre,General,209.90481699983633,Madrid,36,D,1
+735,John Gonzalez,52,otro,Backstage,621.9322991809622,Buenos Aires,27,B,0
+736,Emma Martinez,44,mujer,General,723.3644087593888,Madrid,43,C,1
+737,John Lopez,28,hombre,Backstage,469.91831607180967,Ciudad de México,41,A,0
+738,Luis García,45,mujer,Backstage,231.56986269256387,Madrid,44,C,1
+739,Robert Lee,37,hombre,Backstage,828.6913599404186,Los Angeles,17,B,0
+740,Robert Smith,56,otro,VIP,190.74925521091745,Bogotá,48,B,0
+741,Carlos Lopez,44,hombre,Backstage,378.15077287110034,Santiago,7,B,1
+742,Samantha Lee,29,mujer,General,838.6444683122812,Santiago,21,D,1
+743,Robert Martinez,23,mujer,VIP,535.9299241207016,Santiago,47,E,0
+744,María Martinez,55,hombre,Backstage,656.3922445347634,Nueva York,15,D,0
+745,Carlos Lee,21,hombre,Backstage,401.2005457463978,Ciudad de México,27,C,1
+746,Laura Johnson,45,mujer,General,629.2009537182785,Nueva York,5,A,1
+747,Alice Gonzalez,49,hombre,Backstage,153.6642963785892,Santiago,12,A,1
+748,Emma Doe,46,mujer,VIP,200.24054653122775,Madrid,25,A,0
+749,Luis Martinez,31,mujer,General,446.6161277158262,Lima,31,E,1
+750,Luis Doe,23,hombre,VIP,464.10241162996596,Nueva York,40,D,0
+751,Luis Martinez,54,hombre,Backstage,810.5474199182584,Buenos Aires,22,D,1
+752,Laura Johnson,18,hombre,General,688.6711461271855,Bogotá,38,A,0
+753,Laura Rivera,60,otro,General,916.012268330191,Ciudad de México,30,C,0
+754,Sofia Smith,54,otro,Backstage,408.70627496862187,Ciudad de México,20,D,1
+755,Samantha Doe,59,mujer,VIP,423.75752455483655,Santiago,30,E,0
+756,Samantha Gonzalez,39,mujer,VIP,722.6208619524919,Los Angeles,42,B,1
+757,María Lee,54,otro,General,909.6984752304866,Madrid,33,D,1
+758,Luis Lee,34,otro,General,188.8926814470607,Bogotá,7,D,0
+759,Carlos Lopez,25,otro,General,978.2542782048508,Buenos Aires,16,C,1
+760,John Martinez,50,mujer,VIP,950.4503411872166,Santiago,45,E,1
+761,Emma Johnson,41,hombre,Backstage,934.3469999527823,Buenos Aires,40,A,0
+762,Carlos García,32,hombre,VIP,422.97024935896764,Ciudad de México,33,E,0
+763,Laura Lee,48,hombre,Backstage,99.5422681121552,Lima,41,C,1
+764,Laura Martinez,51,mujer,Backstage,840.5977396815206,Ciudad de México,32,A,0
+765,Robert Smith,48,mujer,VIP,675.883740022654,Nueva York,27,B,0
+766,Emma Martinez,42,hombre,VIP,647.6679040669975,Nueva York,23,B,0
+767,Emma Lee,47,hombre,VIP,865.7703105388545,Ciudad de México,27,B,1
+768,Robert Brown,28,mujer,General,168.02639921325084,Buenos Aires,8,C,1
+769,Alice Martinez,25,otro,Backstage,804.2920224316372,Lima,8,E,1
+770,Samantha Smith,43,mujer,Backstage,648.4473915656417,Los Angeles,33,D,1
+771,Robert Smith,39,mujer,Backstage,217.33546506616557,Buenos Aires,38,C,0
+772,María Johnson,19,hombre,VIP,654.638151021781,Miami,21,C,1
+773,Sofia Gonzalez,60,hombre,VIP,61.185188114392716,Toronto,24,B,1
+774,Sofia Martinez,58,hombre,VIP,466.63988536755056,Miami,22,D,0
+775,María Smith,50,otro,Backstage,960.2841584936662,Madrid,26,E,1
+776,María Smith,24,hombre,Backstage,685.955145983065,Toronto,7,E,0
+777,Carlos Lee,32,mujer,General,869.9044504753285,Los Angeles,29,C,1
+778,John Brown,20,otro,General,737.6521551097414,Santiago,35,D,1
+779,Carlos Johnson,30,hombre,VIP,741.7583171756388,Bogotá,17,B,0
+780,Luis Doe,38,hombre,Backstage,583.6230733575628,Miami,9,D,1
+781,Emma Brown,33,otro,Backstage,537.7183027531264,Lima,17,C,1
+782,Luis Lee,20,hombre,Backstage,62.167661361935515,Bogotá,11,D,1
+783,Laura Lee,34,otro,VIP,728.1250540373568,Lima,49,A,0
+784,Luis García,52,hombre,Backstage,733.5258825691775,Bogotá,8,B,1
+785,Robert Martinez,59,otro,Backstage,438.7505315802979,Buenos Aires,43,C,1
+786,John Martinez,57,hombre,Backstage,796.7682121043573,Ciudad de México,13,E,1
+787,Sofia Brown,35,otro,General,878.5417456320165,Nueva York,9,C,1
+788,Laura Gonzalez,27,mujer,Backstage,68.24179383587133,Bogotá,42,A,1
+789,Robert Johnson,40,mujer,VIP,247.01709562194293,Miami,5,A,1
+790,Emma Martinez,28,mujer,VIP,842.0334572901685,Santiago,49,D,1
+791,Samantha Brown,47,otro,Backstage,637.670817636427,Buenos Aires,41,B,1
+792,Samantha Smith,21,hombre,Backstage,70.68805103018116,Los Angeles,49,E,1
+793,Luis Martinez,46,otro,Backstage,233.98771401457472,Los Angeles,41,B,1
+794,John Lopez,28,hombre,General,336.830057136971,Buenos Aires,29,D,1
+795,Luis Doe,43,mujer,Backstage,59.43780221127994,Toronto,3,E,1
+796,Emma Gonzalez,26,hombre,VIP,905.1543356996298,Ciudad de México,39,C,0
+797,María Rivera,27,mujer,General,261.16711132517975,Toronto,27,E,1
+798,Luis Doe,28,mujer,VIP,472.43994613727796,Santiago,49,B,1
+799,Robert Johnson,39,hombre,General,489.2988445449547,Buenos Aires,7,B,0
+800,Luis Johnson,45,hombre,VIP,654.7451975386674,Lima,41,B,1
+801,Samantha Gonzalez,40,mujer,General,361.09767648358974,Nueva York,1,D,1
+802,Carlos Doe,28,hombre,General,430.288074723218,Lima,46,D,1
+803,Laura Gonzalez,30,otro,General,97.64183722273751,Los Angeles,42,E,1
+804,Laura Smith,41,mujer,General,145.71845909954857,Los Angeles,21,A,0
+805,Laura Rivera,58,mujer,VIP,350.46144233106793,Ciudad de México,48,B,0
+806,María Rivera,51,mujer,Backstage,802.8670351051262,Santiago,4,B,1
+807,Robert Rivera,25,hombre,General,959.564437819,Buenos Aires,20,E,0
+808,Laura Brown,40,hombre,Backstage,761.4911289387759,Miami,13,D,1
+809,Samantha Brown,58,hombre,General,253.65235387537288,Bogotá,9,E,0
+810,Sofia Gonzalez,41,hombre,VIP,710.2773145917884,Toronto,11,A,0
+811,Alice Lopez,55,otro,VIP,315.52143211508246,Miami,36,C,0
+812,Luis Rivera,56,mujer,Backstage,290.6065032021545,Lima,15,E,1
+813,John Gonzalez,30,mujer,General,295.6887326976501,Miami,34,E,1
+814,John Rivera,45,hombre,General,562.4563148905554,Los Angeles,1,B,0
+815,Robert Lopez,49,mujer,General,585.8932948094897,Miami,23,C,1
+816,John Lee,42,hombre,Backstage,108.51178812648119,Madrid,32,E,1
+817,Alice Lee,57,mujer,General,749.5243220738644,Bogotá,26,B,0
+818,María Lee,52,otro,VIP,925.0577629195625,Toronto,23,A,1
+819,John Brown,54,hombre,VIP,212.70755049596235,Miami,9,E,0
+820,Samantha García,39,otro,VIP,958.6635313387784,Bogotá,39,B,1
+821,Robert Rivera,27,hombre,General,843.4170292306294,Madrid,44,C,0
+822,Sofia Smith,44,otro,VIP,986.7094389379299,Lima,13,B,1
+823,John Lopez,24,hombre,Backstage,357.8384270004177,Nueva York,42,C,1
+824,Robert Lee,26,mujer,Backstage,549.2047649304852,Madrid,32,E,1
+825,Robert Lopez,50,otro,VIP,902.3163054405883,Toronto,12,E,0
+826,María Brown,49,otro,Backstage,775.4209546594994,Miami,23,E,0
+827,Laura Martinez,24,otro,Backstage,138.95404632713957,Buenos Aires,36,C,0
+828,María Doe,27,hombre,VIP,591.594197554379,Buenos Aires,17,E,0
+829,Alice Rivera,30,mujer,Backstage,111.5652136068383,Miami,26,A,1
+830,John Rivera,54,otro,Backstage,919.4945217975603,Buenos Aires,5,D,0
+831,Luis Smith,25,mujer,General,767.5809765908558,Buenos Aires,13,C,0
+832,María Lopez,30,hombre,VIP,530.4826347188309,Santiago,2,C,1
+833,Alice Rivera,18,otro,VIP,626.528215008774,Bogotá,2,C,0
+834,Samantha Brown,31,mujer,Backstage,255.5763009849815,Madrid,16,C,0
+835,Luis Lopez,51,mujer,Backstage,624.9542821518532,Madrid,20,E,1
+836,Carlos Johnson,42,otro,VIP,443.81843167719245,Toronto,9,A,1
+837,María Johnson,38,otro,Backstage,643.0752281399788,Bogotá,28,B,1
+838,Alice Martinez,56,mujer,Backstage,429.18188718053386,Miami,6,E,0
+839,Emma Smith,39,mujer,General,197.86443645084384,Lima,22,B,1
+840,Carlos Smith,26,otro,Backstage,290.771738285724,Ciudad de México,15,C,0
+841,Emma Brown,25,otro,Backstage,501.2990129893788,Buenos Aires,48,C,0
+842,María Rivera,44,otro,VIP,737.494571898829,Buenos Aires,4,A,0
+843,Alice Rivera,22,mujer,VIP,398.4632590950889,Lima,8,D,1
+844,Robert Doe,36,mujer,General,444.5029409456693,Santiago,8,C,1
+845,Alice Doe,60,hombre,VIP,111.79791476028956,Ciudad de México,25,D,0
+846,Carlos Doe,46,otro,Backstage,576.920758207791,Santiago,39,C,1
+847,Luis Gonzalez,46,mujer,VIP,170.52127972498457,Miami,47,D,1
+848,Alice Lee,55,hombre,Backstage,896.626843800849,Miami,2,C,1
+849,Sofia Brown,41,otro,VIP,141.3554940824032,Ciudad de México,45,E,0
+850,Luis Johnson,39,mujer,General,968.7070813974063,Madrid,49,A,0
+851,Samantha Lee,41,hombre,Backstage,69.58879896249137,Los Angeles,26,D,0
+852,Luis Johnson,35,hombre,VIP,881.391569876587,Miami,8,A,1
+853,Luis Johnson,22,mujer,VIP,482.1834750747964,Los Angeles,40,C,1
+854,Laura Lee,43,hombre,General,705.234861388829,Nueva York,10,C,1
+855,Alice Smith,42,hombre,General,933.3263221699657,Santiago,28,A,1
+856,María Rivera,25,otro,General,166.4827374953095,Madrid,5,D,1
+857,Laura Lopez,22,otro,VIP,375.1698663272369,Lima,37,E,1
+858,Samantha Lopez,41,otro,VIP,192.9175062887861,Santiago,2,A,1
+859,Emma Doe,37,hombre,General,122.21828222916874,Buenos Aires,25,C,1
+860,Emma Gonzalez,35,hombre,VIP,898.8473796251901,Nueva York,35,A,0
+861,Sofia Doe,29,hombre,General,865.1722485837046,Madrid,46,B,1
+862,Carlos Gonzalez,20,mujer,General,547.5430068802883,Ciudad de México,13,B,0
+863,Luis García,20,otro,Backstage,344.3479593930538,Buenos Aires,3,A,0
+864,María Lee,22,hombre,VIP,949.0144208455752,Madrid,25,D,0
+865,Sofia Gonzalez,31,mujer,VIP,736.9300527011343,Bogotá,43,A,1
+866,Luis Lee,20,hombre,Backstage,161.4056635088113,Ciudad de México,29,C,1
+867,Luis Doe,59,hombre,VIP,613.4733922904776,Miami,6,C,0
+868,Emma Gonzalez,28,otro,VIP,235.80998683870786,Madrid,49,B,1
+869,Laura Rivera,40,mujer,VIP,765.4632394536675,Miami,49,D,0
+870,Laura Doe,50,hombre,VIP,840.9672456043689,Nueva York,21,D,0
+871,Alice Smith,19,otro,Backstage,495.4081458617134,Buenos Aires,22,E,1
+872,Laura Gonzalez,54,hombre,General,231.83474368287045,Lima,46,D,1
+873,Sofia Doe,52,otro,General,482.89806774156284,Nueva York,35,A,0
+874,Emma Rivera,58,hombre,VIP,60.50155627388404,Los Angeles,17,A,1
+875,Emma Johnson,36,otro,General,684.9581495691066,Los Angeles,42,B,0
+876,Alice Lopez,21,mujer,VIP,138.15954177941745,Madrid,38,C,1
+877,Robert Lee,35,hombre,Backstage,797.2671042820035,Nueva York,10,A,0
+878,Robert Brown,51,mujer,General,677.3848824645988,Buenos Aires,17,B,0
+879,John García,25,hombre,General,402.09960930763276,Lima,26,E,1
+880,Sofia Martinez,58,hombre,General,432.7552653106996,Ciudad de México,9,E,1
+881,John García,22,otro,General,627.6107274754588,Nueva York,25,D,0
+882,John Gonzalez,42,hombre,VIP,508.5105978888274,Ciudad de México,17,B,0
+883,Luis Brown,32,otro,General,55.340425676076485,Nueva York,41,A,0
+884,Laura Smith,42,hombre,Backstage,510.85880120892926,Bogotá,15,E,1
+885,Carlos Johnson,51,otro,VIP,929.6098165175922,Madrid,29,E,0
+886,John Smith,52,otro,VIP,669.365917852833,Toronto,1,B,0
+887,Luis García,38,mujer,General,779.6139898440525,Lima,42,D,1
+888,Laura Smith,22,hombre,Backstage,549.3347128428376,Bogotá,28,A,1
+889,Robert Martinez,55,otro,VIP,708.8593627131886,Nueva York,3,B,1
+890,Laura Lee,40,mujer,General,871.1760394873563,Toronto,42,B,0
+891,Sofia Gonzalez,36,hombre,VIP,719.8987739755773,Bogotá,16,E,0
+892,Carlos Doe,22,hombre,VIP,347.36234353698836,Santiago,32,A,0
+893,Laura Gonzalez,60,hombre,General,770.8408052598933,Madrid,2,A,1
+894,Robert Doe,56,otro,General,393.3117770546093,Buenos Aires,42,C,0
+895,Emma Johnson,29,hombre,VIP,474.0277464878039,Santiago,5,E,1
+896,Sofia Doe,48,otro,Backstage,595.0215630155553,Los Angeles,5,D,0
+897,John Lopez,60,hombre,VIP,917.9985479368427,Miami,38,B,1
+898,Luis Brown,41,otro,VIP,239.11098941538177,Nueva York,3,C,0
+899,Laura Smith,26,hombre,VIP,903.5361133346187,Buenos Aires,27,D,0
+900,Alice Martinez,45,otro,Backstage,526.9494996135404,Nueva York,7,D,1
+901,John Brown,51,mujer,Backstage,78.10239495214472,Lima,27,C,1
+902,John Martinez,26,otro,Backstage,831.1167688730729,Toronto,30,A,1
+903,Carlos García,23,otro,Backstage,108.50405725614377,Buenos Aires,22,A,1
+904,María Brown,24,mujer,VIP,142.33982931271356,Buenos Aires,21,E,0
+905,María Smith,29,mujer,Backstage,585.9912355581349,Lima,17,B,1
+906,Emma Doe,36,otro,VIP,426.89833395285694,Toronto,17,D,0
+907,María Brown,35,otro,VIP,382.11576553221,Lima,17,B,1
+908,Carlos Gonzalez,36,mujer,VIP,866.5464779992377,Nueva York,10,B,0
+909,Robert Brown,57,mujer,General,390.5113189800724,Santiago,36,B,1
+910,Sofia Rivera,30,mujer,Backstage,175.0777371411582,Toronto,43,C,1
+911,Alice Johnson,36,hombre,Backstage,943.491320188137,Buenos Aires,24,B,1
+912,Robert Lopez,57,otro,General,965.0196284331014,Buenos Aires,21,B,1
+913,María Gonzalez,48,otro,General,453.99036860603707,Toronto,27,E,1
+914,Samantha Lee,56,hombre,Backstage,655.4010836459302,Bogotá,30,D,0
+915,Robert Doe,57,mujer,General,101.98967863363816,Santiago,1,C,0
+916,María Brown,36,hombre,General,472.67804736395595,Los Angeles,5,C,1
+917,Alice Martinez,52,hombre,General,744.900522854106,Miami,9,E,1
+918,Robert Lopez,21,hombre,Backstage,559.7917227631817,Miami,28,E,0
+919,Robert Brown,59,hombre,Backstage,441.088711802041,Miami,44,C,0
+920,María Johnson,42,hombre,General,981.179491857841,Miami,16,E,0
+921,Sofia Smith,58,mujer,Backstage,762.8717191744022,Madrid,11,A,1
+922,Laura Brown,41,otro,General,910.9578605650055,Miami,4,B,0
+923,María Martinez,19,otro,Backstage,426.90476383484287,Bogotá,43,A,0
+924,Carlos Brown,57,otro,VIP,771.7121059756456,Bogotá,12,E,0
+925,Emma Johnson,32,otro,VIP,129.50081411722144,Los Angeles,11,A,1
+926,Carlos García,19,mujer,Backstage,706.645786873474,Miami,20,A,0
+927,Carlos Smith,28,mujer,VIP,229.75615699665173,Lima,23,B,0
+928,Laura Lopez,57,otro,VIP,394.96322306477185,Los Angeles,42,C,0
+929,Laura Lee,19,hombre,Backstage,820.6354489841686,Ciudad de México,47,B,0
+930,María Doe,24,hombre,General,390.7889532350344,Nueva York,19,B,1
+931,María Lee,45,otro,Backstage,512.45860515351,Santiago,38,E,0
+932,Luis Martinez,38,otro,VIP,514.7648639457951,Buenos Aires,37,B,1
+933,Alice Johnson,25,mujer,General,321.62335810763125,Madrid,44,B,0
+934,Carlos Gonzalez,36,hombre,General,378.7427132948186,Buenos Aires,27,C,0
+935,Carlos Brown,28,otro,General,814.6581779609864,Lima,45,C,1
+936,Emma Gonzalez,21,hombre,Backstage,130.69804429583365,Lima,40,E,0
+937,John Johnson,19,hombre,General,737.3048298032045,Los Angeles,4,A,0
+938,Emma Lee,34,hombre,General,109.4410697569835,Toronto,17,C,1
+939,Alice Martinez,27,mujer,VIP,661.6563986168753,Nueva York,41,B,1
+940,Carlos García,34,hombre,General,593.3881131190251,Bogotá,43,E,1
+941,María Doe,18,otro,Backstage,753.4840328392562,Lima,6,A,1
+942,Samantha Lopez,19,otro,Backstage,519.6322326974353,Miami,5,C,0
+943,John Brown,35,hombre,General,74.94304884211648,Madrid,31,B,0
+944,Laura Rivera,46,otro,Backstage,699.8970136968745,Madrid,44,C,0
+945,Laura Gonzalez,25,hombre,Backstage,164.4522903457055,Lima,43,E,1
+946,Emma Lee,50,mujer,General,837.1474027766628,Ciudad de México,44,E,1
+947,Laura Doe,42,hombre,General,135.22823748539855,Buenos Aires,19,A,0
+948,Laura Doe,32,otro,Backstage,977.759753903744,Lima,27,A,1
+949,Carlos García,43,mujer,General,814.218495273606,Los Angeles,24,B,0
+950,Sofia Smith,32,hombre,VIP,834.8790935330817,Nueva York,35,D,0
+951,Alice Gonzalez,59,otro,Backstage,589.3074705204218,Nueva York,24,B,1
+952,Carlos Lopez,20,otro,Backstage,159.37708800212164,Bogotá,8,A,0
+953,Carlos Brown,39,hombre,Backstage,143.5199051626713,Buenos Aires,27,E,1
+954,Laura Brown,52,hombre,Backstage,279.8987782880415,Ciudad de México,9,E,0
+955,María Doe,42,hombre,Backstage,915.3890734235225,Toronto,46,E,1
+956,Laura Johnson,21,otro,Backstage,543.8750519044185,Ciudad de México,49,D,0
+957,María Johnson,34,mujer,General,706.578170222075,Santiago,40,C,1
+958,Emma Smith,32,mujer,General,943.8269638463084,Los Angeles,27,D,1
+959,Samantha Doe,45,otro,VIP,68.36613995034172,Buenos Aires,29,D,0
+960,Luis Rivera,35,mujer,VIP,779.9980557751235,Bogotá,38,E,0
+961,Luis Johnson,30,mujer,VIP,208.60637155198788,Lima,46,C,1
+962,Laura Martinez,29,hombre,General,79.9779638828072,Madrid,41,D,1
+963,Samantha Martinez,46,mujer,Backstage,614.7243431903889,Buenos Aires,3,E,1
+964,Alice Lee,55,mujer,VIP,855.5846169323621,Santiago,50,D,0
+965,Alice Martinez,37,mujer,VIP,739.9712099682998,Santiago,20,E,1
+966,María Smith,59,hombre,General,819.0517107625615,Nueva York,48,D,1
+967,Luis Johnson,31,hombre,Backstage,510.2740540952414,Lima,36,B,0
+968,Alice Martinez,47,otro,Backstage,712.2903359406437,Madrid,17,D,0
+969,Robert Rivera,59,hombre,General,194.95091869939623,Lima,26,C,1
+970,Laura Lopez,44,hombre,Backstage,305.16361537736896,Madrid,28,C,1
+971,María Brown,48,otro,VIP,467.48297694726733,Lima,36,C,0
+972,Luis Brown,47,otro,VIP,559.50522191339,Madrid,34,A,1
+973,Alice Lopez,36,hombre,General,528.6431167913996,Ciudad de México,26,C,0
+974,Sofia Brown,46,otro,General,810.5480374618203,Los Angeles,14,A,0
+975,Sofia Lopez,34,otro,Backstage,107.6413028809639,Buenos Aires,11,C,1
+976,Samantha Lee,32,otro,Backstage,426.28751307014505,Buenos Aires,31,D,0
+977,Carlos Doe,39,mujer,VIP,313.5077287248319,Bogotá,29,E,1
+978,Alice Brown,56,otro,General,709.556380188211,Bogotá,48,D,1
+979,Emma Brown,54,hombre,General,437.8031714136749,Ciudad de México,33,B,1
+980,Laura Johnson,45,hombre,VIP,349.5537649008712,Miami,41,B,0
+981,Samantha García,48,otro,VIP,934.1625807669164,Bogotá,27,E,1
+982,Samantha Lopez,54,otro,General,843.0200448200699,Toronto,47,C,0
+983,María Johnson,49,mujer,VIP,994.9425064183323,Los Angeles,6,A,0
+984,Robert Gonzalez,51,hombre,General,63.96126603779726,Miami,33,E,0
+985,Luis Brown,28,otro,Backstage,546.7191761364063,Ciudad de México,21,C,0
+986,Samantha Brown,29,mujer,Backstage,206.96371121135815,Toronto,15,A,1
+987,Laura Doe,27,otro,VIP,852.8715895751923,Toronto,36,C,0
+988,Emma Brown,55,mujer,General,903.130795607907,Buenos Aires,12,E,0
+989,Sofia Lopez,36,otro,VIP,289.62236354830526,Madrid,32,E,0
+990,Emma Lee,47,mujer,VIP,451.18190428644044,Santiago,6,D,1
+991,María Smith,48,otro,Backstage,232.73989993292244,Buenos Aires,49,D,0
+992,Laura Doe,42,otro,VIP,484.70544285440155,Lima,42,C,0
+993,Emma Brown,41,otro,General,144.79759222826215,Los Angeles,24,B,0
+994,María Doe,24,mujer,Backstage,306.2026579959733,Lima,16,C,0
+995,Luis Johnson,41,mujer,VIP,250.14355557548242,Toronto,37,D,1
+996,John Smith,33,otro,General,571.1980986432034,Santiago,49,E,0
+997,Sofia Doe,56,otro,VIP,623.5315943964895,Miami,13,B,1
+998,Luis Doe,35,otro,General,800.578515629865,Miami,8,B,1
+999,Emma Johnson,43,otro,General,266.8619827148628,Lima,50,A,0
+1000,María Brown,32,otro,General,482.88199328957614,Bogotá,22,E,1
